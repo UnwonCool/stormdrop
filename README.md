@@ -1,6 +1,6 @@
 #### StormDrop64
 
-StormDrop64 provides enhanced parallelism, period, speed and statistical test results as an ideal alternative to 64-bit Mersenne Twister, 64-bit SFMT, Xoroshiro1024*, Xoroshiro1024**, Xoroshiro1024++, Xoshiro512**, Xoshiro512+ and Xoshiro512++.
+StormDrop64 provides enhanced parallelism, period, speed and statistical test results as an ideal alternative to 64-bit Mersenne Twister, 64-bit SFMT, Xoroshiro1024*, Xoroshiro1024**, Xoroshiro1024++, Xorshift1024*, Xorshift1024+, Xoshiro512**, Xoshiro512+ and Xoshiro512++.
 
 It has a period of at least 2³²⁷⁶⁸.
 
