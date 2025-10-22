@@ -28,7 +28,7 @@ n Count    Minimum
 
 #### StormDrop32
 
-StormDrop32 provides enhanced parallelism, period, speed and statistical test results as an ideal alternative to 32-bit Mersenne Twister, 32-bit SFMT and WELL.
+StormDrop32 provides enhanced parallelism, period, speed and statistical test results as an ideal alternative to 32-bit Mersenne Twister, 32-bit SFMT, WELL and Xorwow.
 
 It has a period of at least 2³²⁷⁶⁸.
 
